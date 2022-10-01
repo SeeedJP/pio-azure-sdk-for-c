@@ -1,3 +1,5 @@
+**IMPORTANT: Instead of this library, we recommend using [azure-sdk-for-c-arduino](https://github.com/Azure/azure-sdk-for-c-arduino) published by the Azure team.**
+
 # Azure SDK for Embedded C
 
 This repository is a cut-out of [azure-sdk-for-c](https://github.com/Azure/azure-sdk-for-c) for PlatformIO.
